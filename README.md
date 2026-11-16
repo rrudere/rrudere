@@ -1,8 +1,6 @@
-
 <p align="center">
   <img src="assets/equip.png" alt="Marco Toninato" width="100%">
 </p>
--->
 
 <h1 align="center">Marco Toninato</h1>
 <h3 align="center">Audio Engineer · Sound Designer · AI Voice & Audiovisual Creator</h3>
@@ -15,23 +13,16 @@
   <a href="mailto:info@marcotoninato.com">info@marcotoninato.com</a>
 </p>
 
-<!-- LOGOS: upload SVGs to assets/ and remove comment markers
+
 <p align="center">
   <a href="https://rrudere.brokenglitch.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/rrudere-white.svg">
-      <img alt="rrudere" src="assets/rrudere-black.svg" height="55">
-    </picture>
+    <img alt="rrudere" src="assets/rrudere-BW.svg" height="55">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://brokenglitch.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/broken-white.svg">
-      <img alt="Broken Glitch" src="assets/broken-black.svg" height="55">
-    </picture>
+    <img alt="Broken Glitch" src="assets/broken-BW.svg" height="55">
   </a>
 </p>
--->
 
 ---
 
