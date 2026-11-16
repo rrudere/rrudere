@@ -26,6 +26,7 @@
   </a>
 </p>
 
+
 ---
 
 Senior audio engineer and sound designer with 20+ years of practice, bridging high-end acoustic craft — timbral nuance, voice isolation, dynamic control — and modern AI audio workflows. I work at every stage of the audio chain: from location recording and dialogue cleanup to mixing, mastering and sound design for picture, and from voice synthesis and generative media to live audiovisual performance.
