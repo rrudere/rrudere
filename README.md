@@ -20,7 +20,7 @@
   <a href="https://rrudere.brokenglitch.com">
     <img alt="rrudere" src="assets/rrudere-BW.svg" height="55">
   </a>
-  <span>&nbsp;&nbsp;&nbsp;</span>
+  
   <a href="https://brokenglitch.com">
     <img alt="Broken Glitch" src="assets/broken-BW.svg" height="55">
   </a>
