@@ -7,12 +7,14 @@
 
 <p align="center">
   Barcelona, Spain &nbsp;·&nbsp; Italian / English / Spanish<br><br>
-  <a href="https://marcotoninato.com">marcotoninato.com</a> &nbsp;·&nbsp;
-  <a href="https://rrudere.brokenglitch.com">rrudere</a> &nbsp;·&nbsp;
-  <a href="https://brokenglitch.com">Broken Glitch Records</a> &nbsp;·&nbsp;
+  <a href="https://marcotoninato.com">marcotoninato.com</a>
+  &nbsp;·&nbsp;
+  <a href="https://rrudere.brokenglitch.com">rrudere</a>
+  &nbsp;·&nbsp;
+  <a href="https://brokenglitch.com">Broken Glitch Records</a>
+  &nbsp;·&nbsp;
   <a href="mailto:info@marcotoninato.com">info@marcotoninato.com</a>
 </p>
-
 
 <p align="center">
   <a href="https://rrudere.brokenglitch.com">
