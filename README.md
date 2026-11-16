@@ -103,11 +103,15 @@ Acoustic treatment│ Bass traps · resonators · Schroeder diffusers
 
 ## Repositories
 
-**[voice-cloning-preprocessor](https://github.com/rrudere/voice-cloning-preprocessor)** *(in progress)*
-Python script that takes a folder of raw vocal recordings and outputs clean, cloning-ready files: silence trimming with Voice Activity Detection, light noise reduction, high-pass filter, loudness normalisation, and a per-file quality report. Built from practical experience preparing audio for local voice synthesis workflows.
+## Repositories
 
-**[rrudere_HH](https://github.com/rrudere/rrudere_HH)**
-Arduino sketch for a hi-hat module built for the Ginco Synthese Grains, based on the Mozzi audio synthesis library.
+**[audio-tools](https://github.com/rrudere/audio-tools)**  
+Python DSP toolkit for audio engineering and vocal workflows:
+* `voice_preprocessor.py` — Batch voice conditioning (80Hz rumble cut, silence trimming, -16 LUFS normalization) for AI voice cloning datasets and podcasts.
+* `ep_loudness_matcher.py` — EP mastering analyzer using 3-second sliding window short-term LUFS to match drop intensity with sub/mid frequency bias detection.
+
+**[rrudere-hh](https://github.com/rrudere/rrudere-hh)** *(in progress)* 
+Arduino sketch for a hi-hat module built for the Ginko Synthese Grains Eurorack module, based on the Mozzi audio synthesis library.
 
 ---
 
