@@ -1,6 +1,6 @@
-<!-- BANNER: upload assets/banner.png and remove these comment markers
+
 <p align="center">
-  <img src="assets/banner.png" alt="Marco Toninato" width="100%">
+  <img src="assets/equip.png" alt="Marco Toninato" width="100%">
 </p>
 -->
 
